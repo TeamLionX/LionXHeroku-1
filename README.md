@@ -22,7 +22,7 @@ A simple Telegram userbot based on Telethon .
 
 ### Heroku Deploy
  ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamLionX/Heroku-1)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamLionX/LionXHeroku-1)
 
 -----
 ## Railway Deploy
